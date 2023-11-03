@@ -1,0 +1,27 @@
+html,body
+{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+#one{
+    
+    height: 30%;
+    width: 30%;
+    border: 2px,blue;
+    background-color: bisque;
+    padding: 10px,10px,10px,10px;
+    margin-left: 40%;
+}
+p{
+    display: inline;
+}
+#sub
+{
+    display: block;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
